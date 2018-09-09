@@ -140,7 +140,7 @@ $ celery -A tasks worker -Q slow_tasks --loglevel=info
 $ celery -A tasks worker -Q quick_tasks --loglevel=info
 ```
 
-실제로는 foreground여서 이렇게 실행하지는 못하지만 설명을 위해 이렇게 명시 하였습니다.
+실제로는 foreground여서 이렇게 실행하지는 못하지만 설명을 위해 이렇게 명시하였다.
 
 
 
