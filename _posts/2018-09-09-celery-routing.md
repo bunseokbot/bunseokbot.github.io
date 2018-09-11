@@ -6,7 +6,7 @@ categories:
 tags: celery, Python, Django
 ---
 
-## 0. 도입하게 된 계기
+## 도입하게 된 계기
 최근 개인적으로 준비하고 있는 프로젝트가 하나 있는데, 그 프로젝트에서 돌고 돌다가 결국 Celery를 도입하게 되었다. (나중에 다른 글을 통해서 공개할 수 있으면 공개하도록 하겠다.)
 
 지금 진행하고 있는 프로젝트에는 task가 2개가 있고 이를 concurrency를 이용해서 10개의 worker를 돌리고 있지만 이 과정에서 문제가 발생하였다.
@@ -15,7 +15,7 @@ A task 으로의 요청이 어느 순간 2만건 가까이 몰려온 적이 있�
 
 
 
-## 1. Celery Routing
+## Celery Routing
 
 일단 Routing 이라는 이름에서 볼 수 있듯이 Celery task를 routing 해주는 것이 Celery Routing 이다. (?)
 
@@ -25,7 +25,7 @@ A task 으로의 요청이 어느 순간 2만건 가까이 몰려온 적이 있�
 
 
 
-## 2. 적용 방법
+## 적용 방법
 
 일단 이렇게 되어 있다고 가정하도록 해보자.
 
@@ -148,7 +148,7 @@ $ celery -A tasks worker -Q quick_tasks --loglevel=info
 
 
 
-## 3. 참고 링크
+## 참고 링크
 
 [Celery 공식 사이트](http://docs.celeryproject.org/en/master/userguide/routing.html)
 
