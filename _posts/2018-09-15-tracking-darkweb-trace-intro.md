@@ -30,7 +30,7 @@ tags: bitcoin, wallet, cryptocurrency, financial
 
 일단 사이트에 들어가서 수집한 정보를 보다가 우연하게 좋은 정보를 찾게 되었다.
 
-![보고서](images/dl_report_basic.png)
+![보고서](/assets/posts/images/dl_report_basic.png)
 
 사이트의 유사도를 평가해서 다른 유사한 사이트를 검색해주는 기능인데 일단 같은 사이트가 여기 말고도 두 곳이 더 있는 것을 찾을 수 있었다.
 
@@ -38,7 +38,7 @@ tags: bitcoin, wallet, cryptocurrency, financial
 
 그리고 아래 보면 비트코인 지갑 주소에 대한 정보와 이 주소가 발견된 다른 사이트 정보를 보여주는데, 여기에도 같은 지갑을 찾을 수 있었다.
 
-![지갑보고서](images/dl_report_wallet.png)
+![지갑보고서](/assets/posts/images/dl_report_wallet.png)
 
 Reverse wallet address search 라는걸 제공 하는데 이걸 기반으로 같은 wallet 을 사용하는 darkweb 사이트의 리스트를 알 수 있다.
 
@@ -48,7 +48,7 @@ Reverse wallet address search 라는걸 제공 하는데 이걸 기반으로 같
 
 일단 지갑 정보 보기를 누르게 되면 blockchain.info 의 해당 주소 정보를 보여주게 된다.
 
-![지갑정보_상세](images/dl_wallet_info.png)
+![지갑정보_상세](/assets/posts/images/dl_wallet_info.png)
 
 이 정보를 보면 해당 주소에서 약 9.53 BTC 정도를 받은 것을 확인 할 수 있다. (비트코인 500만원 기준 약 4천 5백만원..)
 
@@ -56,9 +56,9 @@ Reverse wallet address search 라는걸 제공 하는데 이걸 기반으로 같
 
 일단 여기 Transaction 들을 보면 아래와 같은 특징을 찾을 수 있다.
 
-![트랜잭션_2](images/dl_transactions_2.png)
+![트랜잭션_2](/assets/posts/images/dl_transactions_2.png)
 
-![트랜잭션_1](images/dl_transactions_1.png)
+![트랜잭션_1](/assets/posts/images/dl_transactions_1.png)
 
 일단 사용자에게서 0.0025 BTC (약 2만원) 정도를 받고 이게 3-4명에게서 받게 되면 "15QZ" 로 시작하는 다른 지갑으로 빼는 특징을 발견할 수 있었다. (가린 이유는 가입해서 데이터 검색하면 찾을 수 있게 하기 위해서.. 입니다. - 가입하세요 여러분)
 
@@ -76,7 +76,7 @@ Reverse wallet address search 라는걸 제공 하는데 이걸 기반으로 같
 
 그러나.. 세상은 위대하고 나랑 비슷한 생각을 하는 사람은 많다.
 
-![비트코인 지갑 검색기](images/dl_wallet_explorer.png)
+![비트코인 지갑 검색기](/assets/posts/images/dl_wallet_explorer.png)
 
 walletexplorer 라는 서비스가 있는데 이 서비스는 wallet address를 grouping 해주고 label 해주는 사이트이다. (대단)
 
@@ -84,19 +84,19 @@ walletexplorer 라는 서비스가 있는데 이 서비스는 wallet address를 
 
 
 
-![지갑 추적 1](images/dl_wallet_output_1.png)
+![지갑 추적 1](/assets/posts/images/dl_wallet_output_1.png)
 
-![지갑 추적 1](images/dl_wallet_output_2.png)
+![지갑 추적 1](/assets/posts/images/dl_wallet_output_2.png)
 
 사람들이 보낸 돈은 모두 HappyCoins.com 이라는 곳으로 일정 시간마다 빠져 나갔다. 그것도 약속이나 한 것 처럼 모두 오전 9시에서 9시 사이에 빠져 나갔다. (이분은 방귀도 일정 시간마다 뀔 거 같다.)
 
 이 HappyCoins.com 이라는 서비스에 들어가 보니 유로화(EUR)로 buy/sell 할 수 있는 거래소였다!
 
-![해피코인즈](images/dl_happycoins.png)
+![해피코인즈](/assets/posts/images/dl_happycoins.png)
 
 그리고 해당 사이트에 새로 가입하는 과정에 대해서 살펴 보았는데 여기선 IBAN Account Number 를 요청했다.
 
-![해피코인즈 가입](images/dl_happycoins_join.png)
+![해피코인즈 가입](/assets/posts/images/dl_happycoins_join.png)
 
 사실 처음엔 IBAN이 특정 은행인줄 알았지만.. International Bank Account Number 이라는 유럽 연합이나 중동 쪽에서만 주로 사용하는 국제은행계좌번호(?) 이라고 한다. [참고 링크](https://en.wikipedia.org/wiki/International_Bank_Account_Number)
 
