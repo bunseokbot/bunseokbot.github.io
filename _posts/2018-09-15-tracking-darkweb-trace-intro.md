@@ -1,6 +1,6 @@
 ---
 title: 누가 이런걸 사고 파는지 궁금해서 추적해본 이야기 서론
-description: DarkLight를 운영하면서 수집한 정보를 기반으로 아동청소년 사이트의 자금 흐름 추적기의 서론
+description: DarkLight를 운영하면서 수집한 정보를 기반으로 아동청소년 음란물 사이트의 자금 흐름 추적기의 서론
 categories:
  - darkweb
 tags: bitcoin, wallet, cryptocurrency, financial
