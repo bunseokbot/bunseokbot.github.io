@@ -44,7 +44,7 @@ The current implementation keeps an array of integer objects for all integers be
 >>> d = 1
 >>> e = 1
 >>> f = 1
->>> a == b == c == d == e == f
+>>> a is b is c is d is e is f
 True
 ```
 
