@@ -308,6 +308,7 @@ path('/language/<str:language_code>', views.set_language, name='set_language'),
 그래서 Django에서는 이러한 경우를 대비해서 `get_current_language_bidi` 라는 기능을 제공해서 해당 언어가 오른쪽부터 있는지 아님 왼쪽부터 시작하는지 여부를 체크할 수 있다.
 
 ```html
+{% raw %}
 {% get_current_language_bidi as LANGUAGE_BIDI %}
 
 {% if LANGUAGE_BIDI %}
@@ -325,6 +326,7 @@ path('/language/<str:language_code>', views.set_language, name='set_language'),
         text-align: right;
     }
 </style>
+{% endraw %}
 ```
 
 물론 CSS는 따로 잡아줘야 하지만, class를 다르게 함으로써 자동으로 구분지어 지원할 수 있다.
