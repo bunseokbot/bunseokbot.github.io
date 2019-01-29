@@ -126,7 +126,7 @@ class Article(models.Model):
 `app/index.html`
 
 ```html
-{% \raw %}
+{% raw %}
 {% load i18n %}
 <html>
 	<head>
@@ -140,7 +140,7 @@ class Article(models.Model):
 		{% endblocktrans %}
 	</body>
 </html>
-{% \end%}
+{% endraw %}
 ```
 
 HTML에서 사용할 때는 반드시 i18n을 load해야 문제 없이 사용할 수 있다.
