@@ -3,7 +3,7 @@ title: DarkLight 엔진이 드디어 세상에 공개됩니다!
 description: 다크웹 정보 수집 엔진 오픈소스
 categories:
  - darkweb
-tags: darkweb, Python, opensource
+tags: darkweb, python, opensource
 ---
 
 ## 드디어!
@@ -56,11 +56,10 @@ Github의 Pull Request 기능이나 Issue 기능을 통해서 의견, 기능을 
 
 만약 해당 프로젝트에 대해 궁금하신 점이 있으시다면 언제든지 아래 연락처로 연락주시기 바랍니다.
 
-bunseokbot at gmail.com (E-mail address)
+bunseokbot at gmail.com
 
 
 
 ### Special thanks to..
 
 * Sangsup Lee
-
