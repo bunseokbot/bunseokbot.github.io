@@ -1,11 +1,11 @@
 ---
-title: 다크웹 크롤링 데이터 공개
-description: DarkLight를 통해 다크웹에서 수집한 데이터를 공개합니다.
+title: 다크웹 데이터를 공개합니다
+description: DarkLight를 통해 다크웹에서 수집한 데이터를 여러분들께 공개합니다.
 categories:
  - darkweb
 tags: darkweb, data mining, opensource
 ---
-
+# 다크웹 데이터를 공개합니다
 ## 서론
 
 제목을 보고 많은 분들이 이미 아시겠지만, 다크웹에서 수집한 데이터를 공개하게 되었습니다.
@@ -98,7 +98,7 @@ load에 성공하여 컨테이너를 실행시키고, 9200번 포트를 통해 �
 
 
 
-# English
+# Disclosure of darkweb data
 
 ## Introduction
 
