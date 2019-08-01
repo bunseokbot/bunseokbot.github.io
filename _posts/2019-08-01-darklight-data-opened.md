@@ -146,6 +146,7 @@ It's provided in the form of a tar file that backup the image of the Docker. You
 
 ```
 docker load < darklight.tar
+docker run -d --name darklight-elastic -p 9200:9200 bunseokbot/darklight-data:latest
 ```
 
 You can see that elasticsearch container is running when you load and run the container and connect through port 9200.
