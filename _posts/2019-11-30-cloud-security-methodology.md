@@ -5,7 +5,6 @@ categories:
  - cloud
 tags: cloud, security
 ---
-# Games on AWS 2019 후기
 # 현실성 있고 간단한(?) 클라우드 보안법
 
 ## 시작하기 전에
