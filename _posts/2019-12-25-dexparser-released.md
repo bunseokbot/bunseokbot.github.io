@@ -64,9 +64,18 @@ DEX 파일을 본지도 너무 오래되서 최근에 다시 안드로이드 스
 
 
 
+### Documentation
+
+2019년 12월 25일부로 Documentation이 성공적으로 완료 되었습니다!
+
+[문서 바로가기]( https://dexparser.readthedocs.io/en/latest/ )
+
+
+
 ## 개선 사항
 
-* Documentation
+* ~~Documentation~~
+* 추가 기능 개발
 
 
 
