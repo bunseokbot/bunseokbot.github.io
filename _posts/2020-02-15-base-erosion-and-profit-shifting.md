@@ -50,6 +50,8 @@ Income Tax System designed to limit artificial deferral of tax by using offshore
 
 
 
+## Tax Avoidance
+
 ### Double Irish with a Dutch Sandwich
 
 is a tax avoidance technique employed by certain multinational companies.
@@ -74,12 +76,34 @@ is a tax avoidance technique employed by certain multinational companies.
 
 
 
+### Single Malt
+
+Similar to the Double Irish technique, but instead of using a Bermuda or Virgin Island located at Caribbean island, the Malta and its double tax treaty with Ireland to avoid taxation of certain multinational companies.
+
+
+
+### Responses
+
+* United Kingdom
+  * Diverted Profits Tax ("DPT")
+* Republic of Korea
+  * Adjustment of International Taxes Act ("국세조세조정에 관한 법률")
+* Republic of China
+  * CbC (Country-by-Country) Report, Master File and Local file required
+  * "內地稅新頒函釋-核釋營利事業得免送交集團主檔報告及國別報告認定標準。" 
+  *  https://law.dot.gov.tw/law-ch/home.jsp?id=18&parentpath=0,7&mcustomize=newlaw_view.jsp&dataserno=201912100001 
+* New Zealand
+  * Taxation (Neutralising Base Erosion and Profit Shifting) 2018
+  *  http://www.legislation.govt.nz/act/public/2018/0016/14.0/DLM7505806.html 
+* Hong Kong Special Administrative Region
+  * the Inland Revenue (Amendment) No. 6 Bill 2017
+
+
+
 ### anti-BEPS Tax Regimes
 
 * U.S. Tax Cuts and Jobs Act of 2017
 * EU Commission 2018 Digital Services Tax
-
-
 
 
 
