@@ -50,7 +50,7 @@ Income Tax System designed to limit artificial deferral of tax by using offshore
 
 
 
-###Double Irish with a Dutch Sandwich
+### Double Irish with a Dutch Sandwich
 
 is a tax avoidance technique employed by certain multinational companies.
 
