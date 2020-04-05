@@ -6,10 +6,6 @@ categories:
 tags: osint
 ---
 
-# Base Erosion and Profit Shifting
-
-# 마약탐지견 개발하기
-
 # 리트리버 프로젝트
 
 ## 계기
