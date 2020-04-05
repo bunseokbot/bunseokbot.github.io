@@ -3,7 +3,6 @@ title: 리트리버 프로젝트
 description: 인터넷 상에서 마약을 탐지할 수 있는 똑똑한 탐지견을 만들어 보자!
 categories:
  - intelligence
- - drug
 tags: osint
 ---
 
