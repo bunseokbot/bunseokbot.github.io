@@ -48,7 +48,7 @@ tags: retrospective
 
 
 
-![jeju ocean](\assets\images\posts\2020-retrospective\jeju_ocean.jpg)
+![jeju ocean](\assets\images\posts\2020-retrospective\jeju.jpg)
 
 처음에는 제주에서 사는게 쉽지 않을 것 같았는데 나름 익숙해지니 재밌었다.
 
