@@ -51,7 +51,7 @@ AWS EC2 에서는 아래와 같은 여러 요금 플랜을 제공하고 있다.
 
 우선, 스팟 인스턴스의 기본적인 작동 구조에 대해 알아 보도록 하자.
 
-![spot-instance](C:\Users\austinkim\Desktop\bunseokbot.github.io\assets\images\posts\ec2-spot-instance\spot-instance.JPG)
+![spot-instance](\assets\images\posts\ec2-spot-instance\spot-instance.JPG)
 
 무엇인가를 알아보기엔 AWS 공식 페이지가 짱이다. (번역기적 말투만 제외하면..)
 
