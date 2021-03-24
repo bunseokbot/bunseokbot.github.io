@@ -34,40 +34,12 @@ tags: darkweb, data mining, opensource
 
 ```
 Namjun Kim (bunseokbot@gmail.com)
-Sejong University, Wellbia.com Co., Ltd.
+Sejong University
 ```
 
+개인적인 사정이 있어 더 이상 데이터를 공개하지 않고 있습니다.
 
-
-## 신청하기
-
-bunseokbot@gmail.com 으로 아래와 같은 내용을 담아 보내주시면 데이터가 담긴 링크를 보내 드립니다.
-
-만약, 48시간 이내에 답장을 못 받으셨다면 주저하지 마시고 연락해 주시기 바랍니다. (누락될 수 있습니다)
-
-* 이름 (선택사항)
-* 이메일
-* 소속
-* 사용 목적
-
-
-
-## 사용법
-
-도커 이미지를 백업한 tar 파일 형태로 제공됩니다. 아래 명령어를 통해 도커 환경에서 container를 구동할 수 있습니다.
-
-```
-docker load < darklight.tar
-docker run -d --name darklight-elastic -p 9200:9200 bunseokbot/darklight-data:latest
-```
-
-load에 성공하여 컨테이너를 실행시키고, 9200번 포트를 통해 접속하면 elasticsearch 가 정상적으로 떠 있는 것을 볼 수 있습니다.
-
-여기서 여러 index가 있는데 각 index에 대한 설명은 아래와 같습니다.
-
-* domain (도메인 정보, 서버 환경 정보)
-* history (사이트 정보, 소스코드, 언어셋, 제목 등)
-
+개발기 혹은 오픈소스를 보고 싶으시다면, GitHub 프로젝트를 참고해 주시면 감사하겠습니다.
 
 
 ## 끝으로
@@ -125,38 +97,9 @@ However, the following conditions are specified when using the data provided:
 
 In addition, if you're not sure how to identify the source, you can identify it as follows.
 
+Due to personal circumstances, I can't disclose the darkweb data.
 
-
-## How to Apply
-
-Please send the following information to bunseokbot@gmail.com and we'll send back to you with a link.
-
-If you have not received your reply within 48 hours, please do not hesitate to contact me.
-
-- Name (optional)
-- E-mail
-- Company Name / School Name / Department
-- purpose of use
-
-
-
-## Getting Started
-
-It's provided in the form of a tar file that backup the image of the Docker. You can run container in the docker environment with the following command.
-
-```
-docker load < darklight.tar
-docker run -d --name darklight-elastic -p 9200:9200 bunseokbot/darklight-data:latest
-```
-
-You can see that elasticsearch container is running when you load and run the container and connect through port 9200.
-
-There are several indexes,
-
-- domain (domain information, server environment information)
-- history (site info, html source code, language set, title, etc.)
-
-
+If you want to get any information of this project, please visit my darklight project repository on GitHub.
 
 ## Finally
 
